@@ -213,10 +213,10 @@ Tapping on a link will take you to relevant materials.
             - [ ] Double-ended queue
         - [ ] `System design`
             - [ ] [Problems](Resources/iOS_Developer/Computer_Science_knowledge/System_design/Problems/RESOURCES.md)
-        - [ ] Programming Paradigms
-            - [ ] Object-Oriented
-            - [ ] Functional
-                - [ ] Functional Reactive Programming Frameworks
+        - [x] Programming Paradigms
+            - [x] Object-Oriented
+            - [x] Functional
+                - [x] Functional Reactive Programming Frameworks
                     - [ ] React Native
-                    - [ ] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
+                    - [x] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
                     - [ ] RxRealm, RxDataSources
